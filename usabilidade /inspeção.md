@@ -49,3 +49,6 @@ __Negrito__
 if nota > 8
 print ("Aprovado")
 ```
+
+### Visulização
+ Essa eu não sabia
